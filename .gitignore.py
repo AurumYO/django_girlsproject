@@ -2,8 +2,8 @@
 db.sqlite3
 
 #ignores cashed files
-/__pycache__/*
+__pycache__/*
 
 # ignores file with secret key
-secret_key.py
+misite/secret_key.py
 
