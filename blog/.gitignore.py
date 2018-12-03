@@ -3,5 +3,4 @@ db.sqlite3
 /mysite/secret_key.py
 
 *.pyc
-
-__pycache__/
+blog/_blo_pycache__/**
